@@ -1,7 +1,8 @@
 # TestAutomationFramework_CurrencyConverter
 
 Website under test : https://www1.oanda.com/currency/converter/
-Tehnologies used : Python,Selenium PyTest, Cucumber-BDD
+
+Tehnologies used : Python,Selenium PyTest, Cucumber-BDD (Gherkin)
 
 Tested on MAC OS - Chrome Version 88.0.4324.96 , Python 3.9
 
